@@ -1,0 +1,17 @@
+body{
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpMoz54m96dwtrzSL6042CM-HK3sfEbH9KlA&usqp=CAU");
+    background-size: 100% , 100%;
+}
+/* .pin{
+margin-right: 170px;
+padding-right:250px ;
+padding-left: 250px;
+} */
+/* .pinky{
+padding: 20px;
+font-size: 15px;
+} */
+.trans{
+    background-color: rgba(0, 255, 255, 0);
+    color: white;
+}

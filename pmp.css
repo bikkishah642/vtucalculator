@@ -1,0 +1,14 @@
+body{
+    background-image: url("https://t3.ftcdn.net/jpg/03/29/14/46/360_F_329144637_fLag9jYbaYQwo3apYr8OEzTrdUWWwXCR.jpg");
+    background-size: 100% , 100%;
+    overflow-x: hidden;
+}
+.dist{
+    margin-left: 400px; 
+    /* margin-top: -300px; */
+  }
+.pingi{
+    padding-bottom: 20px;
+    padding-right: 40px;
+    width: 150px;
+}  

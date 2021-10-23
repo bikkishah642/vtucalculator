@@ -1,0 +1,14 @@
+body{
+    background-image: url("http://designazure.com/wp-content/uploads/2018/05/long-shadow.png");
+background-size: 100% , 100%;
+}
+.btn-color{
+    font-size: 20px;
+    border-radius: 30px ;
+    padding: 10px;
+    color: white;
+    background-color: #292929;
+    }
+    .hero{
+        font-size: 70px;
+    }
